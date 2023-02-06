@@ -1,5 +1,5 @@
 ### QWERTY
-![photo_2022-09-30 20 00 14](https://user-images.githubusercontent.com/71819692/207617303-7ae6d32e-89df-4a1e-9606-14cf5744f3b5.jpeg)
+<!--![photo_2022-09-30 20 00 14](https://user-images.githubusercontent.com/71819692/207617303-7ae6d32e-89df-4a1e-9606-14cf5744f3b5.jpeg) -->
 
 
 <!--
